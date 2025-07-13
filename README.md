@@ -1,2 +1,2 @@
-# Honplayer
-a simple music player with html css js
+## Honplayer
+A simple music player implemented via HTML, CSS and Javascript.
